@@ -1,0 +1,2 @@
+# CoffeeMaker
+MSc coursework
